@@ -3,7 +3,7 @@ Projekt zrealizowany w ramach zajęć Programowanie 2
 
 ## 1. Opis danych i cel projektu
 Zbiór danych (`WineQT.csv`) pochodzi z platformy Kaggle i zawiera informacje o fizykochemicznych właściwościach różnych wariacji wina (m.in. kwasowość, zawartość alkoholu, pH, cukier resztkowy).
-**Celem projektu** było stworzenie modelu typu **regresja**, który na podstawie czystej chemii wina potrafi przewidzieć jego ostateczną ocenę jakości (kolumna `quality` w skali od 3 do 8).
+**Celem projektu** było stworzenie modelu typu **regresja**, który na podstawie chemii wina potrafi przewidzieć jego ostateczną ocenę jakości (kolumna `quality` w skali od 3 do 8).
 
 ## 2. Zastosowane kroki i modele
 W ramach projektu przeprowadzono:
